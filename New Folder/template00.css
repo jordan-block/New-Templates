@@ -1,0 +1,141 @@
+body {
+    min-width: 900px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-top: -60px;
+}
+.section1 {
+    background-image: url(https://lonelyplanetimages.imgix.net/mastheads/stock-photo-welcome-to-cape-town-104168527.jpg?sharp=10&vib=20&w=1200);
+    background-position: center;
+    height: 300px;
+}
+.content {
+    color: white;
+    font-family: Helvetica;
+    width: 100%;
+}
+p {
+    font-size: 30px;
+    min-width: 100%;
+    margin-top: -40px;
+    text-align: center;
+}
+h1 {
+    font-size: 110px;
+    letter-spacing: 20px;
+    text-align: center;
+}
+.social-icon {
+  margin: 0 0.4em;
+  background-color: black;
+  color: white;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 17px;
+}
+.social-icons {
+    display: flex;
+    justify-content: center;
+}
+.section2 {
+    display: flex;
+    height: 150px;
+    padding-top: 30px;
+    justify-content: center;
+}
+h3 {
+    text-align: center;
+}
+.left {
+    display:inline-block;
+    justify-content: center;
+    align-items: center;
+    font-family: fantasy;
+    text-align: center;
+}
+p {
+    text-align: center;
+    justify-content: center;
+}
+.middle {
+    padding-left: 200px;
+    font-family: fantasy;
+    height: 197px;
+    display: inline-block;
+}
+.resize {
+    width: 72px;
+    height: 72px;
+}
+.resize2 {
+    width: 90px;
+    height: 90px;
+}
+.right {
+    padding-left: 200px;
+    display:inline-block;
+    font-family: fantasy;
+}
+
+.section3 {
+    background-color: beige;
+    font-family: Helvetica;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+}
+.section31 {
+    display: inline-block;
+    margin-right: 80px;
+}
+
+.box {
+    display: flex;
+    color: #0016;
+}
+.email-box, input {
+    background-color: white;
+    width: 200px;
+    font-size: 12px;
+    height: 30px;
+}
+.Notify {
+    background-color: orange;
+    font-size: 12px;
+    color: white;
+    height: 36px;
+    width: 50px;
+    text-align: center;
+    align-items: center;
+}
+h2 {
+    font-size: 16px;
+}
+.Notify:active {
+  position: relative;
+  top: 2px;
+  text-align: center;
+}
+.section5 {
+    display: flex;
+    color: black;
+    justify-content: center;
+    align-items: center;
+}
+li {
+    display: inline-table;
+    font-size: 12px;
+    margin: 0 40px 0 40px;
+}
+nav a {
+    height: 100px;
+    line-height: 20px;
+    color: #004156;
+    text-decoration: none;
+}
